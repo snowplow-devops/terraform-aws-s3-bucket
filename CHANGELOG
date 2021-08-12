@@ -1,3 +1,8 @@
+Version 0.1.1 (2021-08-12)
+--------------------------
+Update License badge to use HTTPS (#1)
+Add Terraform Registry badge (#2)
+
 Version 0.1.0 (2021-07-06)
 --------------------------
 Initial release
